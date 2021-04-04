@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Phil
+#### Software Engineer | Graduating June 2021
+Former Senior Sales Manager turned Software Engineer. Aiming to combine my passion for programming and interpersonal skills to bridge the gap between technology and business.
 
-<!--
-**socolorphil/socolorphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / NODE / EXPRESS / JS / PYTHON / JAVA
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on landing an awesome career 👨🏻‍💻 
+- 📫 How to reach me: philipkim206@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I have 2 🐶 and 4 🐔 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/socolorphil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/philckim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/socolorphil/)  
+
+
