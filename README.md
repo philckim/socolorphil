@@ -5,7 +5,6 @@ Former Senior Account Manager turned Software Engineer. Aiming to combine my pas
 Skills: REACT / NODE / EXPRESS / JS / PYTHON / JAVA
 
 - 🔭 I’m currently working on landing an awesome career 👨🏻‍💻 
-- 📫 How to reach me: philipkim206@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have 2 🐶 and 4 🐔 
 
