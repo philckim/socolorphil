@@ -2,8 +2,6 @@
 #### Software Engineer | Graduating June 2021
 Former Senior Account Manager turned Software Engineer. Aiming to combine my passion for programming and proven interpersonal skills to bridge the gap between technology and business frontline.
 
-*I used to sell APIs; now I build them 💻*
-
 Skills: REACT / NODE / EXPRESS / JS / PYTHON / JAVA
 
 - 🔭 I’m currently working on landing an awesome career 👨🏻‍💻 
