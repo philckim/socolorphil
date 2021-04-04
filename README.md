@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Phil
 #### Software Engineer | Graduating June 2021
-Former Senior Account Manager turned Software Engineer. Aiming to combine my passion for programming and proven interpersonal skills to bridge the gap between technology and business frontline.
+Former Senior Account Manager turned Software Engineer. Aiming to combine my passion for programming and proven interpersonal skills to bridge the gap between technology and business.
 
 Skills: REACT / NODE / EXPRESS / JS / PYTHON / JAVA
 
